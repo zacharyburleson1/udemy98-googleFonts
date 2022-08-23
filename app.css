@@ -1,0 +1,23 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+main {
+    width: 60%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: 3rem;
+    margin-bottom: 0;
+}
+
+h1+h2 {
+    margin-top: 10px;
+}
+
+#greeting {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1.5rem;
+}
